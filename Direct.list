@@ -20,6 +20,12 @@ DOMAIN-SUFFIX,ligang2023.top
 
 
 
+#TP-Link摄像头
+DOMAIN-SUFFIX,tplinkcloud.com.cn
+
+
+
+
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
