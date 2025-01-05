@@ -1,0 +1,10 @@
+# 规则名称: 直连域名
+# 规则统计: 21
+
+no_resolve: true
+domain_suffix_set:
+  - ligangs2025.top
+  - ligang20203.top
+
+#ip_cidr_set:
+  #- 101.32.104.4/32
