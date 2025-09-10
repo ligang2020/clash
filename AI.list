@@ -47,3 +47,4 @@ DOMAIN-SUFFIX,signalr.net
 
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,gsp64-ssl.ls.apple.com
