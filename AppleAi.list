@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,guzzoni.apple.com
+DOMAIN,*.smoot.apple.com
