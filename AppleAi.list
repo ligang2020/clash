@@ -3,7 +3,9 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,*.smoot.apple.com
+
