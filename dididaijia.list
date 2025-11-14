@@ -3,8 +3,5 @@ DOMAIN,didistatic.com
 DOMAIN-SUFFIX,daijia.kuaidadi.com
 DOMAIN-SUFFIX,lion.didialift.com
 DOMAIN-SUFFIX,epassport.diditaxi.com.cn
-
-
-#51代驾
 DOMAIN-SUFFIX,api.bailongmashuxing.com
-DOMAIN,bailongmashuxing.com
+DOMAIN,api.bailongmashuxing.com
